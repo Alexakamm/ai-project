@@ -9,7 +9,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 
-data = pd.read_csv('./data/Mental-Health-Twitter.csv')
+data = pd.read_csv('../../data/Mental-Health-Twitter.csv')
 
 
 def preprocess_tweet(tweet):
