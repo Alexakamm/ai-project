@@ -1,0 +1,18 @@
+What is NLP?
+
+Natural Language Processing, or NLP, is all about teaching computers to understand and respond to human language.
+It's like helping machines get the gist of what we're saying, whether it's through text or voice. 
+NLP uses cool tech from AI and linguistics to do things like translate languages, handle voice commands, or quickly summarize big chunks of text. 
+It's the magic behind your smartphone's assistant and smarter search results, making it easier for us to chat with our gadgets.
+
+Data: 
+
+For our AI Project this semester, we set out to develop a classification algorithm that could take in the human readable text of a Tweet and produce a classification of that tweet as either positive or negative.
+Our goal was to maximize the possible performance of this algorithm by exploring a broad set of possible ML and NLP approaches. As you can see, the layout of our data was text and simple binary labels. 
+
+Naive Bayes: 
+
+Our first and simplest model is a naive bayes bag of words classifier, we used this as the control for future model choices as it is relatively simple and explainable.
+
+Naive Bayes Performance:
+
